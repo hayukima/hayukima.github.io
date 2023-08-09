@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tothemoon</title>
+    <link>http://hayukima.github.io/categories/</link>
+    <description>Recent content in Categories on Tothemoon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 09 Aug 2023 14:40:25 +0800</lastBuildDate><atom:link href="http://hayukima.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>影视</title>
+      <link>http://hayukima.github.io/categories/%E5%BD%B1%E8%A7%86/</link>
+      <pubDate>Wed, 09 Aug 2023 14:40:25 +0800</pubDate>
+      
+      <guid>http://hayukima.github.io/categories/%E5%BD%B1%E8%A7%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音乐</title>
+      <link>http://hayukima.github.io/categories/%E9%9F%B3%E4%B9%90/</link>
+      <pubDate>Tue, 08 Aug 2023 19:38:46 +0800</pubDate>
+      
+      <guid>http://hayukima.github.io/categories/%E9%9F%B3%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

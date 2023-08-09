@@ -1,0 +1,66 @@
+[
+    {
+        "uri": "/posts/badmode",
+        "title": "《BADモード（BAD MODE）》宇多田ヒカル",
+        "content": "《BADモード（BAD MODE）》专辑简评",
+        "tags": [
+            "流行"
+        ]
+    },
+    {
+        "uri": "/posts/dawnfm",
+        "title": "《Dawn FM》The Weeknd",
+        "content": "《Dawn FM》专辑简评",
+        "tags": [
+            "R&B"
+        ]
+    },
+    {
+        "uri": "/posts/dt",
+        "title": "《David Tao》陶喆",
+        "content": "《David Tao》专辑简评",
+        "tags": [
+            "R&B"
+        ]
+    },
+    {
+        "uri": "/posts/mcdjj",
+        "title": "且停留，再回首",
+        "content": "《漫长的季节》观后感",
+        "tags": [
+            "社会"
+        ]
+    },
+    {
+        "uri": "/posts/oasis",
+        "title": "《(What's The Story) Morning Glory?》Oasis",
+        "content": "《(What's The Story) Morning Glory?》专辑简评",
+        "tags": [
+            "摇滚"
+        ]
+    },
+    {
+        "uri": "/posts/万青",
+        "title": "《万能青年旅店》万能青年旅店",
+        "content": "《万能青年旅店》专辑简评",
+        "tags": [
+            "摇滚"
+        ]
+    },
+    {
+        "uri": "/posts/丑奴儿",
+        "title": "《丑奴儿》草东没有派对",
+        "content": "《丑奴儿》专辑简评",
+        "tags": [
+            "摇滚"
+        ]
+    },
+    {
+        "uri": "/posts/姚中二",
+        "title": "《姚中二》MC HotDog",
+        "content": "《姚中二》专辑简评",
+        "tags": [
+            "说唱"
+        ]
+    }
+]
