@@ -2,85 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hayukima.github.io/series/2/</loc>
+    <loc>https://hayukima.github.io/categories/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/tags/Hugo/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/posts/hugobuild/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/posts/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/series/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/series/study/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/tags/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2023-08-09T20:17:25+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/series/show/</loc>
     <lastmod>2023-08-09T14:40:25+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/categories/</loc>
+    <loc>https://hayukima.github.io/posts/mcdjj/</loc>
     <lastmod>2023-08-09T14:40:25+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/posts/</loc>
+    <loc>https://hayukima.github.io/categories/%E5%BD%B1%E8%A7%86/</loc>
     <lastmod>2023-08-09T14:40:25+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/series/</loc>
+    <loc>https://hayukima.github.io/tags/%E7%A4%BE%E4%BC%9A/</loc>
     <lastmod>2023-08-09T14:40:25+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/tags/</loc>
-    <lastmod>2023-08-09T14:40:25+08:00</lastmod>
-  </url><url>
-    <loc>http://hayukima.github.io/</loc>
-    <lastmod>2023-08-09T14:40:25+08:00</lastmod>
-  </url><url>
-    <loc>http://hayukima.github.io/posts/mcdjj/</loc>
-    <lastmod>2023-08-09T14:40:25+08:00</lastmod>
-  </url><url>
-    <loc>http://hayukima.github.io/categories/%E5%BD%B1%E8%A7%86/</loc>
-    <lastmod>2023-08-09T14:40:25+08:00</lastmod>
-  </url><url>
-    <loc>http://hayukima.github.io/tags/%E7%A4%BE%E4%BC%9A/</loc>
-    <lastmod>2023-08-09T14:40:25+08:00</lastmod>
-  </url><url>
-    <loc>http://hayukima.github.io/posts/dt/</loc>
+    <loc>https://hayukima.github.io/posts/dt/</loc>
     <lastmod>2023-08-08T19:38:46+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/series/1/</loc>
+    <loc>https://hayukima.github.io/series/music/</loc>
     <lastmod>2023-08-08T19:38:46+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/tags/RB/</loc>
+    <loc>https://hayukima.github.io/tags/RB/</loc>
     <lastmod>2023-08-08T19:38:46+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/categories/%E9%9F%B3%E4%B9%90/</loc>
+    <loc>https://hayukima.github.io/categories/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2023-08-08T19:38:46+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/posts/oasis/</loc>
+    <loc>https://hayukima.github.io/posts/oasis/</loc>
     <lastmod>2023-08-08T19:38:36+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/tags/%E6%91%87%E6%BB%9A/</loc>
+    <loc>https://hayukima.github.io/tags/%E6%91%87%E6%BB%9A/</loc>
     <lastmod>2023-08-08T19:38:36+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/posts/badmode/</loc>
+    <loc>https://hayukima.github.io/posts/badmode/</loc>
     <lastmod>2023-08-08T19:38:24+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/tags/%E6%B5%81%E8%A1%8C/</loc>
+    <loc>https://hayukima.github.io/tags/%E6%B5%81%E8%A1%8C/</loc>
     <lastmod>2023-08-08T19:38:24+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/posts/dawnfm/</loc>
+    <loc>https://hayukima.github.io/posts/dawnfm/</loc>
     <lastmod>2023-08-08T19:38:04+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/posts/%E4%B8%91%E5%A5%B4%E5%84%BF/</loc>
+    <loc>https://hayukima.github.io/posts/%E4%B8%91%E5%A5%B4%E5%84%BF/</loc>
     <lastmod>2023-08-08T19:37:51+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/posts/%E4%B8%87%E9%9D%92/</loc>
+    <loc>https://hayukima.github.io/posts/%E4%B8%87%E9%9D%92/</loc>
     <lastmod>2023-08-08T19:37:31+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/post/</loc>
+    <loc>https://hayukima.github.io/post/</loc>
     <lastmod>2023-08-08T19:37:02+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/2023/08/08/%E4%B8%91%E5%A5%B4%E5%84%BF/</loc>
+    <loc>https://hayukima.github.io/2023/08/08/%E4%B8%91%E5%A5%B4%E5%84%BF/</loc>
     <lastmod>2023-08-08T19:37:02+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/posts/%E5%A7%9A%E4%B8%AD%E4%BA%8C/</loc>
+    <loc>https://hayukima.github.io/posts/%E5%A7%9A%E4%B8%AD%E4%BA%8C/</loc>
     <lastmod>2023-08-08T18:33:47+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/tags/%E8%AF%B4%E5%94%B1/</loc>
+    <loc>https://hayukima.github.io/tags/%E8%AF%B4%E5%94%B1/</loc>
     <lastmod>2023-08-08T18:33:47+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/links/</loc>
+    <loc>https://hayukima.github.io/links/</loc>
     <lastmod>2019-04-20T23:10:44+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/about/</loc>
+    <loc>https://hayukima.github.io/about/</loc>
     <lastmod>2019-04-20T23:08:32+08:00</lastmod>
   </url><url>
-    <loc>http://hayukima.github.io/archives/</loc>
+    <loc>https://hayukima.github.io/archives/</loc>
     <lastmod>2019-04-20T13:29:27+08:00</lastmod>
   </url>
 </urlset>

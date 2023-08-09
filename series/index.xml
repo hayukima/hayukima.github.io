@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Tothemoon</title>
-    <link>http://hayukima.github.io/series/</link>
+    <link>https://hayukima.github.io/series/</link>
     <description>Recent content in Series on Tothemoon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Aug 2023 14:40:25 +0800</lastBuildDate><atom:link href="http://hayukima.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Aug 2023 20:17:25 +0800</lastBuildDate><atom:link href="https://hayukima.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2</title>
-      <link>http://hayukima.github.io/series/2/</link>
-      <pubDate>Wed, 09 Aug 2023 14:40:25 +0800</pubDate>
+      <title>study</title>
+      <link>https://hayukima.github.io/series/study/</link>
+      <pubDate>Wed, 09 Aug 2023 20:17:25 +0800</pubDate>
       
-      <guid>http://hayukima.github.io/series/2/</guid>
+      <guid>https://hayukima.github.io/series/study/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1</title>
-      <link>http://hayukima.github.io/series/1/</link>
+      <title>show</title>
+      <link>https://hayukima.github.io/series/show/</link>
+      <pubDate>Wed, 09 Aug 2023 14:40:25 +0800</pubDate>
+      
+      <guid>https://hayukima.github.io/series/show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://hayukima.github.io/series/music/</link>
       <pubDate>Tue, 08 Aug 2023 19:38:46 +0800</pubDate>
       
-      <guid>http://hayukima.github.io/series/1/</guid>
+      <guid>https://hayukima.github.io/series/music/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="google" content="notranslate">
+  <title>Hugo博客搭建记录 &middot; Tothemoon</title>
+  <meta name="keywords" content="blog">
+  <meta name="description" content="Fly me to the moon">
+  <meta name="author" content="hayukima">
+  <link rel="icon" href="/img/black-cat.ico">
+  <link rel="stylesheet" href="/css/diaspora.css">
+  <link rel="stylesheet" href="/css/insight.css">
+  <link rel="stylesheet" href="/css/custom.css">
+</head><body class="loading">
+        <div id="loading"></div>
+				<div id="nav"></div>
+				<div class="nav-user"></div>
+    <div id="single">
+    <div id="top" style="display: block;">
+        <div class="bar">
+        </div>
+        <a class="icon-icon" href="javascript:history.back()">
+        </a>
+        <div title="播放/暂停" class="icon-play">
+        </div>
+        
+        <h3 class="subtitle" style="display: none;">
+        Hugo博客搭建记录</h3>
+        <div class="social">
+            <div>
+                <div class="share">
+                <a title="获取二维码" class="icon-wechat" href="javascript:;"></a>
+                </div>
+                <div id="qr"></div>
+                </div>
+        </div>
+        <div class="scrollbar" style="width: 1.1636%;"></div>
+    </div>
+    <div class="section">
+        <div class="article">
+            <div>
+                <h1 class="title">
+                Hugo博客搭建记录</h1>
+                <div class="stuff">
+                    
+                    <span>August 9, 2023</span>
+                    <span>字数 738</span>
+                    
+                    
+                </div>
+                <div class="content">
+                    <p>经过了一段时间的努力，总算搭好了自己的第一个个人博客，在此记录一下整个学习过程中常用的学习资料，供日后温习参考。</p>
+<ul>
+<li><a href="#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99">参考资料</a></li>
+<li><a href="#hugo%E7%BB%B4%E6%8A%A4%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4">Hugo维护常用命令</a></li>
+<li><a href="#markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95">Markdown常用语法</a></li>
+<li><a href="#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98">常见问题</a></li>
+</ul>
+<hr>
+<h2 id="参考资料">参考资料</h2>
+<ul>
+<li>官方文档
+<ul>
+<li><a href="https://www.gohugo.org/">Hugo官方文档</a></li>
+<li><a href="https://markdown.com.cn/">MarkDown官方文档</a></li>
+</ul>
+</li>
+<li>参考博客
+<ul>
+<li><a href="https://blog.csdn.net/sk14772/article/details/122374376?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169158300016800215030928%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=169158300016800215030928&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-122374376-null-null.142%5Ev92%5Econtrol&amp;utm_term=hugo&amp;spm=1018.2226.3001.4187">Hugo博客手把手教程</a></li>
+</ul>
+</li>
+<li>b站视频
+<ul>
+<li><a href="https://www.bilibili.com/video/BV13c411h7k7/?spm_id_from=333.880.my_history.page.click&amp;vd_source=9456b9ae68ce76e52b8f3e56d0a00e72">10分钟教你简单搭建个人博客</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="hugo维护常用命令">Hugo维护常用命令</h2>
+<p>1.在选定目录下生成博客网站</p>
+<pre tabindex="0"><code>hugo new site 博客名 
+</code></pre><p>2.在post目录下生成一篇文章(放到统一文件夹下便于管理)</p>
+<pre tabindex="0"><code>hugo new site post/article.md
+</code></pre><p>3.本地调试操作(根目录下)</p>
+<pre tabindex="0"><code>hugo server
+</code></pre><p>4.初次部署到GitHub Pages上(在站点根目录执行)</p>
+<pre tabindex="0"><code>#依次执行以下命令
+
+hugo --theme=主题名 --baseURL=&#34;http://github用户名.github.io/&#34;
+
+cd public
+
+git init
+
+git add -A
+
+git commit -m &#34;xxxx&#34;
+
+git remote add origin https://github.com/github用户名/github用户名.github.io.git
+# .git不能忘了
+
+git push -f origin master
+</code></pre><p>以上命令执行完毕后直接在浏览器里访问网站http://github用户名.github.io/即可。</p>
+<p>4.部署完毕后的更新操作(五件套)</p>
+<pre tabindex="0"><code>hugo
+
+cd public
+
+git add -A
+
+git commit -m &#34;xxxx&#34;
+
+git push -f origin master
+</code></pre><p>当然，以上操作可以通过脚本来实现，省的每次发布新博客都要重写五行代码。</p>
+<hr>
+<h2 id="markdown常用语法">Markdown常用语法</h2>
+<p>见参考文档，随用随查，用多了便自然记住了，需要注意的是目前还不支持md文件内自定义html格式之类的，突出一个一切从简，返璞归真。</p>
+<hr>
+<h2 id="常见问题">常见问题</h2>
+<p>1.后端修改在前端显示不及时：ctrl+F5清空浏览器缓存。</p>
+<p>2.部署过程中的问题大部分集中在git的操作上，与博客本身没什么关系，包括但不限于：密钥的配置、与github建立远程连接、限制文件传输大小等等，及时参考网上资料便能解决。</p>
+<p>3.更新搜索引擎：在根目录下运行</p>
+<pre tabindex="0"><code>npm run index
+</code></pre>
+                    
+                    <audio id="audio" loop="1" preload="auto" style="width: 100%;" controls="controls">
+                        <source type="audio/mpeg" src="">
+                        <a href=""></a>
+                    </audio>
+                </div>
+                <div class="comment-wrap">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="relate">
+        <ul>
+            <h3 id="prev_next">
+                <em>相 关 文 章</em>
+                <span>
+                    <a href="javascript: window.scrollTo(0, 0);">
+                    返回顶部</a>
+                    
+                        <a href="https://hayukima.github.io/posts/mcdjj/" rel="prev">上一篇</a>
+                    
+                    
+                </span>
+            </h3>
+            
+            
+            
+                
+                    
+                
+            
+        </ul>
+    </div>
+</div>
+<p style="text-align: center;">
+  <a style="color: inherit" target="_blank" href="https://github.com/honjun/hugo-theme-diaspora"></a>
+</p>
+
+<script>
+  var siteTitle = "Tothemoon";
+</script>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/plugin.js"></script>
+<script src="/js/diaspora.js"></script>
+<script src="/js/custom.js"></script>
+<script src="/js/InsightSearch.js"></script>
+</body>
+</html>
+
