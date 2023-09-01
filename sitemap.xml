@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hayukima.github.io/posts/weicheng/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/categories/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/posts/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/series/read/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/series/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/tags/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://hayukima.github.io/categories/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2023-09-01T17:47:14+08:00</lastmod>
+  </url><url>
     <loc>https://hayukima.github.io/posts/tsukihime/</loc>
     <lastmod>2023-08-23T20:38:31+08:00</lastmod>
   </url><url>
     <loc>https://hayukima.github.io/tags/ADV/</loc>
     <lastmod>2023-08-23T20:38:31+08:00</lastmod>
   </url><url>
-    <loc>https://hayukima.github.io/categories/</loc>
-    <lastmod>2023-08-23T20:38:31+08:00</lastmod>
-  </url><url>
     <loc>https://hayukima.github.io/series/game/</loc>
-    <lastmod>2023-08-23T20:38:31+08:00</lastmod>
-  </url><url>
-    <loc>https://hayukima.github.io/posts/</loc>
-    <lastmod>2023-08-23T20:38:31+08:00</lastmod>
-  </url><url>
-    <loc>https://hayukima.github.io/series/</loc>
-    <lastmod>2023-08-23T20:38:31+08:00</lastmod>
-  </url><url>
-    <loc>https://hayukima.github.io/tags/</loc>
-    <lastmod>2023-08-23T20:38:31+08:00</lastmod>
-  </url><url>
-    <loc>https://hayukima.github.io/</loc>
     <lastmod>2023-08-23T20:38:31+08:00</lastmod>
   </url><url>
     <loc>https://hayukima.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
